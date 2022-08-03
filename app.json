@@ -3,8 +3,8 @@
   "description": "<< A telegram bot To Download Youtube Files Fully Free >>",
   "logo": "https://telegra.ph/file/fe4379cb5ebf812e3379e.jpg",
   "keywords": [ "Youtube" , "YoutubeDownloader" , "Alpha" , "free" , "bot" , "telegram" ],
-  "repository": "https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG",
-  "success_url": "https://github.com/SL-Alpha-X-Team",
+  "repository": "https://github.com/donui-bit/Youtube-Downloader-For-TG",
+  "success_url": "https://github.com/donui-bit",
   "website": "",
   "env": {
   
@@ -12,7 +12,7 @@
         "description": "Get this value from https://my.telegram.org",
         "required": true,
         "value": ""
-        },
+        }
         
         "API_HASH": {
         "description": "Get this value from https://my.telegram.org" ,
